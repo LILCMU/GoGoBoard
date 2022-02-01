@@ -1,4 +1,4 @@
-# gogoboard6
+# GoGo Board 6
 The main portal for the GoGo Board version 6
 
 <img src="/gogo6_overview.png" width="600" height="485">
