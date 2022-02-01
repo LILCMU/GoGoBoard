@@ -9,5 +9,6 @@ The main portal for the GoGo Board version 6
   * Firmware 15.x or older must use the legacy updater - [GoGo Updater v0.5.0](https://github.com/MomePP/gogo-updater-electron/releases/tag/version-0.5.0)
 * [Latest ESP firmware (main CPU)](https://github.com/LILCMU/GoGoBoard-ESP32/releases/latest)
 * [Latest STM firmware (communication CPU)](https://github.com/LILCMU/GoGoBoard-STM32/releases/latest)
+* [Latest Arduino firmware (arduino core CPU)](https://github.com/LILCMU/GoGoBoard-Arduino-Core/releases/latest)
 
 
